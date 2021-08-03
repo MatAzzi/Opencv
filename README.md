@@ -1,8 +1,7 @@
 # Opencv
-Basicos de open cv
-tratamiento de imagenes
+Tratamiento de imagenes
 
 # BodyTracking
 Usando MediaPipe.
 postura, manos, rostro.
-Video juego de box 
+Video juego de box.
